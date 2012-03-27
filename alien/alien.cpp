@@ -53,62 +53,53 @@ typedef set<char> sc;
 typedef pair<int, int> pii;
 typedef map<string, int> msi;
 
-int n, m;
+int l,d,n;
+
+int solve(vs words) {
+    int i,index = 0;
+    string str;
+    set<char> letters;
+    //get scientists line
+    getline(cin,str);
+    fo(i,0,l) {
+        if(words.size() == 0)
+            return 0;
+            
+       if(str[index] == '('){
+           index++;
+           while(str[index] != ')'){
+            letters.insert(str[index]);
+            index++;
+           }
+       }
+       else letters.insert(str[index]);
+       
+            for(vector<string>::iterator it = words.begin(); it != words.end(); ++it) {
+                if( letters.find((*it)[i]) == letters.end())
+                    words.erase(it,it);
+            }
+            
+        letters.clear();
+        index++;
+    
+    }
+
+}
+
 
 int main() {
-
-	int i, j, k, l, d, n, z;
-	ll answer;
-	int index = 0;
-	string tmp;
-	cin >> l >> d >> n;
-
-	sc words[l];
-	long poss[l];
-	getline(cin, tmp);
-
-	fo(i,0,d) {
-		getline(cin, tmp);
-
-		fo(j,0,l) {
-			words[j].insert(tmp[j]);
-		}
-	}
-
-	fo(i,0,n) { // loop all cases
-		cout << "Case #" << i + 1 << ":";
-		getline(cin, tmp);
-		fo(z,0,l) {
-			poss[z] = 0;
-		}
-
-			index = 0;
-			fo(j,0,l) {
-				if (tmp[index] == '(') {
-					index++;
-					while (tmp[index] != ')') {
-
-						if (words[j].find(tmp[index]) != words[j].end()) {
-							poss[j] = poss[j] + 1;
-							
-						}
-						
-						index++;
-					}
-
-				}
-				else if (words[j].find(tmp[index]) != words[j].end()) poss[j] =  1;
-				index++;
-				cout << poss[j] <<endl;
-			}
-			answer = 1;
-			fo(z,0,l) {
-				answer *= poss[z];
-			}
-			cout << " " << answer << endl;
-		
-
-	}
+    string str;
+    int i;
+	cin >> l >> d >> n >> str;
+    vs words;
+    fo(i,0,d) {
+        getline(cin,str);
+        words.pb(str);
+        }
+    
+    fo(i,0,n){
+      cout << "Case #" << i+1 << ": " <<  solve(words);
+    }
 
 	return 0;
 }
