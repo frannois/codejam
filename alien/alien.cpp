@@ -61,6 +61,7 @@ int solve(vs words) {
     set<char> letters;
     //get scientists line
     getline(cin,str);
+
     fo(i,0,l) {
         if(words.size() == 0)
             return 0;
@@ -74,16 +75,22 @@ int solve(vs words) {
        }
        else letters.insert(str[index]);
        
-            for(vector<string>::iterator it = words.begin(); it != words.end(); ++it) {
-                if( letters.find((*it)[i]) == letters.end())
-                    words.erase(it,it);
+            for(int k = 0; k < words.size() ; k ++) {
+				
+                if( letters.find(words.at(k)[i]) == letters.end())
+				{
+					cout<< words.at(k)[i]<< " ";
+                   words.erase(words.begin()+k);
+					
+
+				}
             }
             
         letters.clear();
         index++;
     
     }
-
+return words.size();
 }
 
 
@@ -98,7 +105,7 @@ int main() {
         }
     
     fo(i,0,n){
-      cout << "Case #" << i+1 << ": " <<  solve(words);
+      cout << "Case #" << i+1 << ": " <<  solve(words) << endl;
     }
 
 	return 0;
