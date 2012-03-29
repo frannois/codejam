@@ -65,32 +65,42 @@ int solve(vs words) {
     fo(i,0,l) {
         if(words.size() == 0)
             return 0;
+            else
+            cout << words.size() << endl;
             
        if(str[index] == '('){
+       cout << "( ";
            index++;
            while(str[index] != ')'){
+            cout << str[index];
             letters.insert(str[index]);
             index++;
            }
+           cout << ") " <<" ";
        }
-       else letters.insert(str[index]);
+       else {  letters.insert(str[index]);  cout << str[index] << " " ;}
        
-            for(int k = 0; k < words.size() ; k ++) {
-				
-                if( letters.find(words.at(k)[i]) == letters.end())
-				{
-					cout<< words.at(k)[i]<< " ";
-                   words.erase(words.begin()+k);
-					
-
-				}
+       cout << letters.size() << " ";
+       
+       vector<string>::iterator it = words.begin();
+        while (it != words.end())
+        {
+            if ( letters.find((*it)[i]) == letters.end())
+            {
+                it  = words.erase(it);
             }
+            else
+            {
+               ++it;
+            }
+        }
+            
             
         letters.clear();
         index++;
     
     }
-return words.size();
+    return words.size();
 }
 
 
