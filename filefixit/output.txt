@@ -1,0 +1,100 @@
+Case #1: /home /home/gcj /home/gcj/finals /home/gcj/quals 4
+Case #2: 0
+Case #3: /a/b /a/c /b /b/b 4
+Case #4: /jew /jew/h9 /jew/h9/255 /jew/h9/255/xa /jew/i7 /g5 /g5/g5 /g5/jew /g5/ky /g5/80 /g5/80/q4 /g5/76z /g5/gto /g5/gto/jew /jew/gto 15
+Case #5: /1 /1/1 /1/1/j /1/1/j/j /1/1/j/j/o /1/1/j/j/o/1 /1/1/j/j/o/1/j /1/1/j/j/o/1/j/o /1/1/j/j/o/j /1/1/j/1 /j/o/1 /j/o/1/1 /1/1/j/o /1/1/j/o/j /1/1/j/j/o/1/o /o/j/1 /1/1/j/j/o/o /1/1/j/j/o/o/1 /1/1/j/o/1 /1/1/j/o/1/o /o/j/o /o/j/o/1 /o/j/o/1/j /o/j/o/1/j/o 24
+Case #6: /vub1 /fhyp /fhyp/otr /fhyp/otr/pql6 /fhyp/otr/pql6/pke /sizq /sizq/sizq /gro 8
+Case #7: /zx /zx/cm /zx/cm/pm /zx/cm/pm/ew /zx/cm/pm/ew/ha /zx/cm/pm/ew/ha/dk /zx/cm/pm/ew/ha/dk/oi /zx/cm/pm/ew/ha/dk/oi/tk /zx/h1 /zx/cm/ew /zx/cm/ew/3b /zx/cm/ew/3b/dy /zx/cm/ew/3b/dy/dk /zx/cm/pm/4v /zx/cm/pm/4v/oi /zx/h1/36 /zx/h1/ky /zx/cm/pm/3b 18
+Case #8: /4ocd /4ocd/txtqe /4ocd/8ur /pm5s /4ocd/4a0bn /4ocd/txtqe/dod26 6
+Case #9: /safv /yv2 /wd3 /05h /57iv /rdj8 /5zts /5zts/vud 8
+Case #10: /zz /zz/wnw /zz/wnw/e4u /e4u /p /xm /xm/p /x87 /x87/p /x87/p/xm /x87/p/xm/zz /x87/p/xm/zz/zz /x87/p/xm/zz/zz/p /x87/p/xm/zz/zz/p/e4u /x87/p/xm/zz/zz/p/e4u/x87 /x87/p/xm/zz/zz/p/e4u/x87/p /x /x/x 18
+Case #11: /xjf /xjf/mrrs /xjf/mrrs/mrrs /mrrs/xjf/40v /mrrs/xjf/40v/40v /mrrs/xjf/40v/40v/mrrs /mrrs/xjf/40v/40v/mrrs/40v /xjf/mrrs/xjf /xjf/mrrs/40v 9
+Case #12: /o6u /o6u/o6u /dzg /dzg/ko /in /in/o6u /dzg/88 /dzg/88/o6u /dzg/88/o6u/e0 /dzg/88/o6u/e0/80 /dzg/88/o6u/e0/80/e0 /o6u/oz /0v /0v/dzg /0v/dzg/d3 /0v/dzg/d3/80 /0v/dzg/d3/80/ko /0v/dzg/d3/80/ko/bwl 18
+Case #13: /z6nou/z6nou/z6nou/z6nou /z6nou/z6nou/z6nou/z6nou/aqka1 /z6nou/z6nou/z6nou/z6nou/aqka1/z6nou 3
+Case #14: /q /q/mpt6 /symz /symz/lwpa /symz/lwpa/sa /symz/lwpa/sa/sa /o4v5 /o /o/gt /q/ef /q/ef/90 /q/ef/90/gt5 /q/ef/90/gt5/gt /q/ef/90/gt5/gt/90 /q/ef/90/gt5/gt/90/5 /q/ef/90/gt5/gt/90/5/sb /q/oyhm /o4v5/oyhm /o4v5/oyhm/6 /o/wv84 /o/wv84/w0 /o/wv84/w0/gt5 /o/wv84/w0/gt5/ef 23
+Case #15: /7 /7/q /7/q/1 /7/q/1/u /7/q/1/u/z /7/6 /7/6/n /7/6/n/m /7/6/n/m/q /7/6/n/m/q/r /7/6/n/m/q/r/u /7/6/n/m/q/r/u/6 /7/6/n/m/q/r/u/6/i /0 /0/c /0/c/b /0/c/b/s /7/1 /7/1/n /7/1/n/r /7/q/1/n /7/q/1/n/a /7/1/i /7/1/i/3 /7/f /7/f/m /7/f/m/t /7/f/m/t/9 /7/f/m/t/9/d /7/d /7/x 31
+Case #16: /n /p /5 /5/9 /5/9/8 /5/9/8/v /5/9/8/v/j /5/9/8/v/j/q /5/9/8/v/j/q/p /5/9/8/v/j/q/p/s /5/9/8/v/j/q/p/s/k /5/9/8/v/j/q/p/s/k/6 /h /h/3 /h/3/b /h/3/b/8 /h/3/b/8/k /b /b/9 /b/9/a /b/9/a/c /t /t/q /t/q/v /t/q/v/u /t/q/v/u/l /t/q/v/u/l/z /q /q/3 /q/3/f /q/3/f/u /h/e /h/e/0 /h/e/0/3 /h/e/0/3/6 /h/e/0/3/6/c /h/e/0/3/6/c/d /h/e/0/3/6/c/d/n /o /o/1 /o/1/p /o/1/p/u /b/h /b/h/h /b/h/h/s /b/h/h/s/p /b/h/h/s/p/m /b/h/h/s/p/m/t /b/h/h/s/p/m/t/1 /b/h/h/s/p/m/t/1/i /b/h/h/s/p/m/t/1/i/t 51
+Case #17: /kez /kez/tdr /kez/tdr/cq9 /n7b /n7b/tdr /n7b/tdr/hrp /n7b/tdr/hrp/rcn /n7b/tdr/hrp/rcn/xr0 /rcn /xr0 10
+Case #18: /e036/mzh /e036/mzh/mlys /e036/9jcg /e036/mzh/4z8 4
+Case #19: /24 /24/696 /3k /3k/3k /mh81 /65aqi /65aqi/oeo 7
+Case #20: /ad /ad/uh /pe /pe/jp /pe/jp/3kx /pe/jp/3kx/uh /oz /oz/8i /oz/8i/oz /oz/8i/oz/ad /oz/8i/oz/ad/9v9 /oz/8i/oz/ad/9v9/5wl /oz/8i/oz/ad/9v9/5wl/sn /ad/pe /ad/pe/zau /zau /zau/uh /3kx /zau/9v9 /oz/8i/os4 20
+Case #21: /s8 /s8/gs /9b /u /h /y /pu /pu/x /o /o/ue /o/ue/rn /o/ue/rn/4 /9b/h 13
+Case #22: /nvgh /nvgh/16 /nvgh/3c8u /nvgh/nvgh /nvgh/nvgh/j0y0 /nvgh/u27p /nvgh/y7f5 /nvgh/2i /nvgh/u27p/nvgh 9
+Case #23: /75 /75/f /75/f/f /75/f/f/2b /75/f/f/2b/u /75/f/f/r /75/f/f/z /75/f/f/z/x /75/f/f/8u 9
+Case #24: /9n /9n/rh /9n/k3da /9n/k3da/k3da /9n/k3da/k3da/k3da /9n/9n /9n/9n/k3da /9n/9n/k3da/il /9n/9n/k3da/il/9n /9n/9n/k3da/il/9n/k3da /9n/k3da/k3da/k3da/rh /9n/k3da/k3da/k3da/rh/x3n /9n/il /9n/il/rh 14
+Case #25: /gcq/vcd/vcd /gcq/vcd/vcd/htb /f1o0 /f1o0/gcq /f1o0/gcq/htb /f1o0/gcq/htb/vcd /00n /00n/vcd /gcq/vcd/f1o0 /lw0 /lw0/f1o0 /lw0/f1o0/hd39 /lw0/f1o0/hd39/vcd /lw0/f1o0/hd39/vcd/f1o0 /lw0/f1o0/hd39/vcd/f1o0/htb /lw0/f1o0/hd39/vcd/f1o0/htb/hd39 16
+Case #26: /t /m /e /e/x /r /r/d /o /o/u /o/u/n /r/u /r/u/i /r/u/i/b /r/u/i/b/5 /r/u/i/b/5/n /r/u/i/b/5/n/r /r/u/i/b/5/n/r/3 /r/u/i/b/5/n/r/3/x /r/u/i/b/5/n/r/3/x/u /r/u/i/b/5/n/r/3/x/u/a /r/u/i/b/5/n/r/3/x/u/a/y /r/a /r/a/n /r/a/n/e /r/a/n/e/l /r/y /r/y/u 26
+Case #27: /s9l /s9l/na8 /jra /jra/na8 /jra/na8/bem /jra/na8/bem/hk1 /jra/na8/bem/hk1/yc2 /bxp /6wr/ic8 /6wr/ic8/a4w /6wr/ic8/a4w/s9l /6wr/ic8/a4w/s9l/dwv /u4q /u4q/hk1 /u4q/hk1/na8 /u4q/hk1/na8/ph8 /u4q/hk1/na8/ph8/jd7 /u4q/hk1/na8/ph8/jd7/d4h /u4q/hk1/na8/ph8/jd7/d4h/6wr /txr /txr/u4q /txr/u4q/ki0 /txr/u4q/ki0/na8 /txr/u4q/ki0/na8/u4q /dwv 25
+Case #28: /8d0 /7qf0dh /ulx /ulx/o6yq0 /95ospy /95ospy/ds3v /l5fk5 /l5fk5/g99fvk /95ospy/612e /95ospy/612e/x2yw /95ospy/612e/x2yw/zpg7bf /95ospy/612e/x2yw/zpg7bf/87h6l3 /weoz /ulx/o6yq0/o6yq0 /ulx/o6yq0/o6yq0/1f8w8 /l5fk5/rnu /l5fk5/rnu/ulx /l5fk5/rnu/ulx/612e /l5fk5/rnu/ulx/612e/s5w /95ospy/933 /95ospy/933/d3u97 /95ospy/933/d3u97/d3u97 /95ospy/933/d3u97/d3u97/bnimi 23
+Case #29: /n9 /n9/ct /n9/ct/7 /n9/n9 /n9/n /n9/6 /n9/r2 7
+Case #30: /0tbv /0tbv/ie4 /zzp /zzp/vl8 /zzp/vl8/bp5 /575 /575/mb9 /575/mb9/zsr /575/mb9/zsr/vl8 /575/mb9/zsr/vl8/fqy /575/mb9/zsr/vl8/fqy/vl8 /0tbv/ie4/zzp /0tbv/ie4/zzp/13ij /0tbv/ukeb /0tbv/ukeb/godj /72si /0tbv/ie4/ttmq /0tbv/13ij /0tbv/13ij/yg1 /0tbv/13ij/yg1/oh9 20
+Case #31: /q71/uyz /q71/iio /q71/iio/h3x /q71/l0r 4
+Case #32: /r00 /r00/z2w /r00/2hp /r00/2hp/tyl /r00/2hp/tyl/1l0 /r00/56y /r00/56y/byk /r00/uqz /r00/uqz/mtl /r00/uqz/mtl/bhh /r00/uqz/mtl/bhh/vi9 /r00/kfw /r00/bhh /r00/bhh/byk /r00/bhh/byk/a10 15
+Case #33: /yyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyy /xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx 2
+Case #34: /l19 /md4/3ph /j3h /l19/31w /l19/ofz 5
+Case #35: /9qq/vis3 /9qq/vis3/9qq /9qq/vis3/9qq/f9d /f9d/chbk /f9d/f9d /f9d/f9d/vis3 /f9d/f9d/vis3/vis3 /f9d/f9d/vis3/vis3/imd /f9d/9qq /f9d/9qq/9qq /f9d/9qq/9qq/f9d /f9d/9qq/9qq/f9d/imd /f9d/9qq/9qq/f9d/imd/chbk /f9d/9qq/9qq/f9d/imd/chbk/vis3 /f9d/vis3 /f9d/vis3/chbk /f9d/vis3/chbk/vis3 /f9d/vis3/imd /f9d/vis3/imd/vis3 /f9d/vis3/chbk/chbk /f9d/vis3/vis3 21
+Case #36: /d2 /d2/fhk /shp/xz /qi /lzm /nvq /shp/qi /shp/qi/oyk 8
+Case #37: /pd /pd/50l /pd/50l/383 /pd/50l/383/pd /fuj /uh /uh/mye /x9 /x9/1ls /0fm /0fm/xpi /0fm/xpi/qn1 /0fm/xpi/qn1/rar /jn /jn/ta /jn/ta/uh /jn/ta/uh/59x /jn/ta/uh/59x/tk /jn/ta/uh/59x/tk/e7k /jn/ta/uh/59x/tk/e7k/3dx /jn/ta/uh/59x/tk/e7k/3dx/3dx 21
+Case #38: /p1c /p1c/b5a /p1c/b5a/isx /p1c/b5a/isx/duh /170 /170/vks /r68 /2mu /ji8 /ji8/isx /ji8/isx/zet /b5a 12
+Case #39: /wx /wx/m /g4 /g4/9c /3u8/f /3u8/f/eew /wx/t 7
+Case #40: /tlwj /apbe2/6t62c /ekj50h /ekj50h/6t62c /ekj50h/6t62c/0qr2mk /j3ql49 /ekj50h/h5tjr /ekj50h/h5tjr/tlwj /uyh /uyh/ekj50h 10
+Case #41: /wp87k /wp87k/z4qhr3 /wp87k/z4qhr3/0yl78 /wp87k/z4qhr3/0yl78/wp87k /wp87k/z4qhr3/0yl78/wp87k/0yl78 /1ys /wp87k/0yl78 /tyfktw /0yl78/gkq /gkq /qnct /qnct/z4qhr3 /qnct/z4qhr3/vx9z /nmq 14
+Case #42: /bq3 /jx0 /jx0/x16 /jx0/x16/bll /jx0/x16/bll/u4v /jx0/x16/bll/u4v/85i /jx0/x16/bll/u4v/85i/epmn /jx0/d0i /jx0/d0i/3430 /jx0/q5q4 /jx0/q5q4/vbs /85i /85i/dsii /85i/dsii/uoxn /85i/dsii/uoxn/e0qn /jx0/85i /jx0/85i/w7nl /jx0/85i/w7nl/9nf 18
+Case #43: /peylv/6t9p /7um /ml5l5 /ml5l5/v0v /ml5l5/4fdyb /6r9zvy /5x9xw 7
+Case #44: /qlbn /qlbn/kvi /qlbn/kvi/ge /qlbn/kvi/ge/qlbn /qlbn/kvi/ge/qlbn/b8y /qlbn/kvi/ge/qlbn/b8y/lz /qlbn/kvi/ge/qlbn/b8y/lz/8df /qlbn/kvi/ge/qlbn/b8y/lz/8df/vfs /qlbn/kvi/ge/qlbn/b8y/lz/8df/vfs/329d /kvi/6s52 /qlbn/q /qlbn/q/x /qlbn/q/x/329d /qlbn/lz /vl/nn /qlbn/k0y /qlbn/k0y/q /qlbn/k0y/q/nn /qlbn/k0y/q/nn/qlbn 19
+Case #45: /63m1 /63m1/hpl1 /63m1/hpl1/gal7 /63m1/hpl1/gal7/5uw /63m1/fwv /63m1/wa /63m1/wa/hpl1 /63m1/wa/hpl1/kie3 /63m1/wa/hpl1/kie3/j2 /63m1/wa/hpl1/kie3/j2/gh /63m1/wa/hpl1/kie3/j2/gh/etvs /63m1/ya7 /63m1/ya7/y25 /63m1/sii3 /63m1/sii3/etvs /63m1/y25 /63m1/y25/ya7 17
+Case #46: /5k15v24x26hhw533fj7004yk5l8x /5k15v24x26hhw533fj7004yk5l8x/kcar00aw351pzzcbmxnx11k8 /5k15v24x26hhw533fj7004yk5l8x/kcar00aw351pzzcbmxnx11k8/vfmov9ks7mw1w1h8gvkwkpyj0me /en5u67dvmsqrd3rxrgtf /en5u67dvmsqrd3rxrgtf/s6m05xds29qcmr7c6pd1ee /en5u67dvmsqrd3rxrgtf/s6m05xds29qcmr7c6pd1ee/bm8krjyn7dw9nt1fr45s2ty /en5u67dvmsqrd3rxrgtf/s6m05xds29qcmr7c6pd1ee/bm8krjyn7dw9nt1fr45s2ty/6m5lzzv623p50lpi4nnnuk3y2cnhgm /en5u67dvmsqrd3rxrgtf/99gipzb4wj5xlt9bz4yf /bvxb13cxqiqfmxrut3m3cpmq4s /en5u67dvmsqrd3rxrgtf/e7mv3der68xg2njvps8b5p450rsvoz /en5u67dvmsqrd3rxrgtf/e7mv3der68xg2njvps8b5p450rsvoz/7cz4mihkftjai3p57iu5ugi9k /hv2olpzb7xuadfwuf4lfk1rw /hv2olpzb7xuadfwuf4lfk1rw/yaohhpb0r5j88nfecb5n /9s1uu22hfgiciowawz6xukn /6lar2zyad03g38vtboq8pauc9xzy7 /6lar2zyad03g38vtboq8pauc9xzy7/n4o31ya7nda4pv97w0xpehkh7hiz 16
+Case #47: /i /i/as /i/as/i /pj /pj/rt3 /pj/rt3/9l /i/7 /i/2 /i/5cr /i/5cr/8bv /i/8s7 /i/8s7/rt3 /i/8s7/rt3/8bv /pj/k /pj/k/i /5cr /i/as/i/rt3 /i/as/i/rt3/7 /i/as/i/rt3/7/rt3 /pj/e2 /pj/e2/8bv /pj/e2/8bv/5cr 22
+Case #48: /c6h /c6h/vz /c6h/vz/89u /qr /c6h/dj7 /7eu 6
+Case #49: /ul /ul/6k /ul/vf /ul/vf/xq /e3 /e3/c2 /e3/ul /iw /iw/iy /ul/6k/cm /ul/vf/xq/yf 11
+Case #50: /dgj4lx4t /dgj4lx4t/rms6dw /dgj4lx4t/rms6dw/sango /8splx /8splx/08mw6iat /8splx/08mw6iat/dgj4lx4t /8splx/08mw6iat/dgj4lx4t/73o8c /9zxrl /9zxrl/9zxrl /9zxrl/9zxrl/73o8c /jbzr3 /jbzr3/k9cc6t5 /jbzr3/k9cc6t5/dgj4lx4t /k9cc6t5 /p10z93 /p10z93/sango /p10z93/sango/d8rz2j /p10z93/sango/d8rz2j/73o8c /l52s5 /l52s5/p10z93 /l52s5/p10z93/x2xnd8 /l52s5/p10z93/x2xnd8/rms6dw /l52s5/p10z93/x2xnd8/rms6dw/rrtxr8jb /l52s5/p10z93/x2xnd8/rms6dw/rrtxr8jb/03f5xk /onyspy /onyspy/08mw6iat /onyspy/08mw6iat/k9cc6t5 /onyspy/08mw6iat/k9cc6t5/k9cc6t5 /onyspy/08mw6iat/k9cc6t5/k9cc6t5/jbzr3 /73o8c /73o8c/k9cc6t5 /73o8c/k9cc6t5/679tkd /sango /sango/rms6dw /sango/rms6dw/9zxrl 35
+Case #51: /ae6/k0w /ae6/k0w/0yn /ae6/k0w/0yn/zl1 /ae6/k0w/0yn/zl1/jc5 /ae6/k0w/0yn/zl1/jc5/ae6 /qvs /k0w 7
+Case #52: 0
+Case #53: /z7xz /z7xz/uhtob /z7xz/uhtob/j0fe /z7xz/uhtob/j0fe/ndp /g57 /g57/ndp /uhtob/vsrvl/dl5l /uhtob/vsrvl/dl5l/vth17 /uhtob/vsrvl/dl5l/vth17/ndp /uhtob/vsrvl/dl5l/ond7 /j0fe /j0fe/dl5l /j0fe/s2xds /j0fe/s2xds/ndp /j0fe/s2xds/ndp/ond7 15
+Case #54: /eghq /eghq/fes /eghq/fes/e6y6 /eghq/fes/e6y6/0abh /edc /edc/r4 /edc/r4/mdw /2p /dlmx /dlmx/yi2u /k60u /avbm /avbm/2b /b0 /b0/r4 /b0/r4/dlmx /0abh/2p /0abh/2p/dj2 /0abh/2p/dj2/0abh /0abh/2p/dj2/0abh/dj2 20
+Case #55: /zg /zg/ad /zg/ad/3z /zg/ad/3z/3z /zg/ad/t8 /zg/ad/t8/fw /zg/ad/3z/3z/y3 /zg/ad/qo /zg/ad/qo/fw /zg/ad/qo/fw/wb /qo /qo/yz /qo/yz/ad /qo/yz/ad/k7 /zg/ad/3z/3z/y3/k7 /zg/ad/3z/3z/y3/k7/3z /qo/yz/t8 /zg/ad/3z/3z/y3/y3 /zg/ad/3z/3z/y3/y3/zg 19
+Case #56: /dj5 /dj5/grm /dj5/grm/pvcp /xw1m55 /bop72 /bop72/mukk /dj5/grm/bop72 /dj5/grm/bop72/xw1m55 /dj5/grm/grm /pvcp /dj5/grm/exc /dj5/grm/exc/pvcp /dj5/grm/exc/pvcp/zaa4iw /pvcp/ij2 /pvcp/ij2/grm 15
+Case #57: /cus /cus/d7u /cus/d7u/0y1 /cus/d7u/0y1/hlr /cus/d7u/0y1/hlr/1l9 /cus/rof /cus/rof/ah5 /cus/rof/ah5/4ry /pka /pka/dde /pka/dde/zby /pka/dde/zby/ah5 /d7u 13
+Case #58: /6 /c6a/k /27l /27l/6 /l/36mm /l/36mm/l /l/36mm/l/k /l/36mm/l/k/aqui /em 9
+Case #59: /o5t /mpe /mpe/0ls /mpe/0ls/aux /k9s /k9s/n98 /k9s/n98/aux /k9s/n98/aux/n74 /k9s/n98/aux/n74/neh /k9s/n98/aux/n74/neh/b3a /nzc /mpe/n98 /26e /26e/26e /26e/26e/u23 /zqe 16
+Case #60: /ehq /c6 /c6/1fic /8i /8i/o9 /8i/o9/ig21 /1fic /1fic/qmz0 /1fic/qmz0/l338 /1fic/qmz0/l338/t85 /1fic/qmz0/l338/t85/7o /1fic/qmz0/l338/t85/jt /1fic/qmz0/l338/t85/jt/t9w /8i/8nms /8i/8nms/j7 /8i/8nms/j7/o9 /8i/8nms/j7/o9/b7 /8i/8nms/j7/o9/b7/8nms /8i/8nms/j7/o9/b7/8nms/jt /8i/8nms/j7/o9/b7/8nms/jt/ehq /8i/8nms/j7/o9/b7/8nms/jt/ehq/l338 21
+Case #61: /nna4 /p7 /p7/ng /p7/ng/1l /p7/ng/1l/wd5 /p7/ng/1l/wd5/lm /ng /nbj /nbj/wd5 /nbj/wd5/n3 /nbj/wd5/n3/afcpx /rj5 /afcpx /afcpx/2lxns /afcpx/2lxns/fjnz1 /afcpx/2lxns/fjnz1/e1i /afcpx/3b6ph /afcpx/3b6ph/afcpx /afcpx/3b6ph/afcpx/rj5 /afcpx/3b6ph/afcpx/rj5/lm /1l /1l/1l /1l/1l/p7 /3b6ph /3b6ph/3b6ph /afcpx/nbj 26
+Case #62: /aym5 /aym5/din3 /aym5/din3/yj4oqq /aym5/din3/yj4oqq/oorn2q /aym5/din3/yj4oqq/oorn2q/8k8 /atvxef /atvxef/pb5mkp /atvxef/pb5mkp/aym5 /atvxef/pb5mkp/aym5/oorn2q /mkj2qa/8k8 /mkj2qa/8k8/atvxef /mkj2qa/8k8/atvxef/mkj2qa /mkj2qa/8k8/atvxef/mkj2qa/din3 /mkj2qa/8k8/atvxef/mkj2qa/din3/lqxma /mkj2qa/8k8/atvxef/mkj2qa/din3/lqxma/8k8 /mkj2qa/8k8/atvxef/mkj2qa/din3/lqxma/8k8/atvxef /mkj2qa/8k8/atvxef/mkj2qa/din3/lqxma/8k8/atvxef/d01 /lqxma /lqxma/a24mah /lqxma/a24mah/din3 /lqxma/a24mah/din3/8k8 /lqxma/a24mah/din3/8k8/d01 /lqxma/a24mah/din3/8k8/d01/yj4oqq /lqxma/a24mah/din3/8k8/d01/yj4oqq/din3 /lqxma/a24mah/din3/8k8/d01/yj4oqq/din3/z9w6 /z9w6 /z9w6/mkj2qa /aym5/pb5mkp /aym5/pb5mkp/lqxma /aym5/pb5mkp/lqxma/byfb /aym5/pb5mkp/lqxma/byfb/d01 /aym5/pb5mkp/lqxma/byfb/d01/byfb 32
+Case #63: /1cl /1cl/8u7 /1cl/8u7/icb /1cl/8u7/icb/623 /1cl/8u7/icb/623/4i5 /1cl/g61 /1cl/ui7 /1cl/ui7/5e6 /1cl/8o8 /1cl/5n3 /1cl/hhv /1cl/hhv/xcg /1cl/vk1 13
+Case #64: /k /k/k /g0 /g0/k /k/k/i /g0/r 6
+Case #65: /2e /ev /1w /1w/46 /2e/85 /2e/tv /2e/tv/46 /2e/tv/x /2e/tv/x/85 /2e/tv/x/85/46 /2e/tv/x/85/46/ev /2e/tv/1m /2e/tv/1m/tv /2e/tv/1m/tv/ev 14
+Case #66: /8wa /0sw /6dp /1kn /y8a /y8a/za1 6
+Case #67: /unmmh7 /zsfuh /zsfuh/012cr /zsfuh/012cr/unmmh7 /89i1g /ba82 /ba82/012cr /vnalzc /vnalzc/unmmh7 /vnalzc/unmmh7/mwss 10
+Case #68: /s /9 /9/s /x /w /v/9 /v/9/x /v/9/x/g /v/9/x/g/x /v/9/x/g/x/9 /v/9/x/g/x/9/9 /v/9/x/g/x/9/9/9 12
+Case #69: /h4t /h4t/tszx /h4t/tszx/odxs /h4t/tszx/odxs/xio4 /od42 /od42/2r4g /tiu /hj /hj/7gb /hj/7gb/2r4g /tu /tu/ba75 /tu/ba75/od42 13
+Case #70: /c /c/j /c/j/7 /x /0 /0/0 6
+Case #71: /o /f /f/e /i /i/i /f/e/s /5 /n 8
+Case #72: /5t4f1 /yhm /om18 /om18/yhm /uqg /om18/niztq 6
+Case #73: /hr /hr/hr /hr/hr/eb /hr/hr/eb/hr /hr/hr/eb/hr/hr /hr/hr/eb/hr/hr/hr /zk/hr /zk/hr/hr /zk/hr/hr/eb /zd/zk /zd/zk/hr /zd/zk/hr/zd /eb /eb/eb /zk/fa /zk/fa/zd /zk/fa/fa /zk/fa/fa/zk /zk/fa/fa/zk/fa /zk/fa/fa/zk/fa/eb /hr/hr/eb/fa /eb/eb/eb /eb/eb/eb/zd /eb/eb/eb/zd/fa /eb/eb/eb/zd/fa/zd /eb/eb/eb/zd/fa/zd/zk 26
+Case #74: /320 /320/1p0 /320/1p0/2w /hcf /1p0 /1p0/2w /2w /2w/hcf 8
+Case #75: /4627tg45ky4627tg45ky 1
+Case #76: /dz0a /dz0a/y2bg /iid8 /510v 4
+Case #77: /z /z/a /z/a/i /z/a/i/i /z/a/i/i/j /z/a/i/i/j/z /m /m/z /j /j/1 /j/1/z /j/1/z/1 /j/1/z/1/m /j/1/z/1/m/a /j/1/z/1/m/a/i /i/j /i/j/i /j/m /j/m/i /j/m/i/1 /j/m/i/1/m /a/1 /a/1/1 /a/1/1/1 /a/1/1/1/i /a/1/1/1/i/1 /a/a /a/a/j /a/a/j/1 /a/a/j/1/j /a/a/j/1/j/1 /a/a/j/1/j/1/j /m/a /m/a/z /m/a/z/z /m/a/z/z/j /m/a/z/z/j/i /m/a/z/z/j/i/m /m/a/z/z/j/i/m/1 /i/m /i/m/a /i/m/a/i /i/m/a/i/m /i/m/a/i/m/1 /j/m/a /j/m/a/1 /j/m/a/1/m /j/m/a/1/m/i /j/m/a/1/m/i/1 /j/m/a/1/m/i/1/1 50
+Case #78: /xw0f /xw0f/bam /ljfda /ljfda/9qfg /ljfda/9qfg/dbah /ljfda/9qfg/dbah/ljfda /ljfda/9qfg/dbah/ljfda/e6w0 /lrxe9 8
+Case #79: /96sp /96sp/nkd /96sp/nkd/9d2 /96sp/nkd/9d2/nkd /96sp/nkd/9d2/nkd/o69r /khs /wmth/wmth /wmth/wmth/x6b /wdy /wdy/nkd /wdy/nkd/x4ne /wdy/nkd/x4ne/x4ne /oz0 /oy3/khs /oy3/khs/gety /nkd /nkd/x6b /nkd/x6b/96sp /nkd/x6b/96sp/gety /mxa/x6b /mxa/x6b/96sp /mxa/x6b/96sp/mxa /mxa/x6b/96sp/mxa/oy3 /x4ne /x4ne/wmth /x4ne/wmth/oy3 /x4ne/wmth/oy3/x6b /x4ne/wmth/oy3/x6b/wdy /x4ne/wmth/oy3/x6b/wdy/9d2 /x4ne/wmth/oy3/x6b/wdy/9d2/gety /x4ne/wmth/oy3/x6b/wdy/9d2/gety/gety 31
+Case #80: /ou/1i /ou/ln /ou/ln/9w /p9/p9 /p9/p9/9w /ou/i4 /ou/1i/ou /9w /9w/ou /9w/ou/b1 10
+Case #81: 0
+Case #82: /cgzjb /cgzjb/ipuo68 /5tv1d /5tv1d/mil /5tv1d/mil/30zxwg /v3wxd /v3wxd/uuln7 /cgzjb/kaeaj /cgzjb/kaeaj/tu5uc /cgzjb/kaeaj/tu5uc/v3wxd /5tv1d/mil/u1k 11
+Case #83: /iq /iq/v3 /kn /kn/3m /kn/3m/xq /kn/f1 /kn/f1/tr /iq/v3/9f /iq/v3/9f/ht /kn/3m/tr /kn/3m/tr/ch /iq/v3/49 /iq/v3/49/oo /iq/v3/49/oo/vr /3m /qf /qf/2p 17
+Case #84: /7y4m /bx/g2n /bx/g2n/fgu3 /bx/g2n/fgu3/qac7 /bx/g2n/fgu3/qac7/7y4m /z9 /z9/7vg8 /z9/kc /z9/kc/0zw /bx/g2n/he0t /7y4m/z9 11
+Case #85: /62ukf /h3avc /tpi/0az /tpi/0az/0az 4
+Case #86: /vb /vb/2 /vb/2/k1 /vb/2/k1/q /vb/2/k1/q/lq /vb/2/k1/q/lq/h7 /vb/2/k1/b /n /vb/h7 /h7 /h7/l /h7/l/ly /h7/l/ly/jj /h7/l/ly/jj/m /h7/l/ly/jj/m/6 /h7/l/ly/jj/m/6/n /vb/5 /vb/i /vb/i/8n /vb/i/8n/mb /vb/i/8n/mb/9 /vb/i/8n/mb/9/c /vb/i/8n/mb/9/c/3d /vb/i/8n/mb/9/c/3d/m /vb/i/8n/mb/9/c/3d/m/6 /mr/yw 26
+Case #87: /4627tg45ky 1
+Case #88: /3tf /3tf/zn6 /3tf/zn6/i55k /sh1 /sh1/hsv /3tf/ik5u /3tf/ik5u/thmh /u0fj /u0fj/npil /6ik /fs9 /6ik/npil /3tf/ik5u/thmh/u7au /u0fj/ik5u 14
+Case #89: /mw /t9 /t9/7r /t9/xh /e5 /t9/3k /ge /z3 /3k 9
+Case #90: /vf /vf/4v /4e /v7 /o7 /o7/88 /8e /z2 8
+Case #91: /g8g /g8g/51hxt /g8g/51hxt/q1mgb /g8g/51hxt/q1mgb/15z /g8g/51hxt/q1mgb/15z/6o5 /g8g/g1f /g8g/g1f/xd46 /g8g/g1f/xd46/xd46 /g8g/g1f/xd46/xd46/15z /g8g/g1f/xd46/xd46/15z/o0s /g8g/g1f/xd46/xd46/15z/o0s/o0s 11
+Case #92: /is /is/fu /2d6n /is/m /is/m/is /is/m/is/o /2d6n/m 7
+Case #93: /j /j/x /j/x/o /j/x/o/t /3 /3/q /3/q/j /3/q/j/3 /3/q/j/3/t /3/q/j/3/t/s /a /a/2 /a/2/q /a/2/q/t /a/2/q/t/f /f/9 /f/9/3 /f/9/3/a /f/9/3/a/j /3/s /3/s/q /3/s/q/3 /3/s/q/3/d /3/s/q/3/d/j 24
+Case #94: /0g /o /f80 /mju /o/o /o/o/1z8 /r8 /r8/g /mju/7 /r8/s6 /o/ai6 /o/ai6/bc 12
+Case #95: /t /t/5 /t/5/s /t/5/s/3 /2 /2/d /4 7
+Case #96: /0w4 /0w4/9ez /0w4/9ez/cjc /u4j /u4j/cjc /f74 /f74/u4j /f74/u4j/ojd /f74/u4j/ojd/yef /f74/u4j/ojd/yef/5tw /f74/63n /f74/r1b /f74/r1b/blt /f74/r1b/blt/63n /f74/r1b/blt/63n/tov /f74/r1b/blt/63n/tov/rx6 16
+Case #97: /qqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqq /qqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqq/qqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqq /ppppppppppppppppppppppppppppppppppppppppppppppppp /ppppppppppppppppppppppppppppppppppppppppppppppppp/qqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqq /qqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqq/ppppppppppppppppppppppppppppppppppppppppppppppppp /ppppppppppppppppppppppppppppppppppppppppppppppppp/ppppppppppppppppppppppppppppppppppppppppppppppppp 6
+Case #98: /9gw /9gw/5q /x9l /x9l/3f /9gw/5q/s /9gw/5q/wr0 /x9l/qgi /x9l/qgi/x9l /9gw/5q/4b /9gw/5q/4b/wr0 /9gw/5q/4b/wr0/wr0 /9gw/5q/1xg 12
+Case #99: /x9 /x9/3g /x9/3g/usc /x9/3g/usc/iy0 /x9/3g/usc/iy0/4ag /x9/3g/usc/iy0/4ag/gx9 /x9/3g/usc/iy0/4ag/gx9/qd /x9/3g/usc/iy0/4ag/gx9/qd/3vi /x9/3g/usc/iy0/4ag/gx9/qd/3vi/qd /w2 /w2/4ag /w2/4ag/w2 /a8 /a8/qd /a8/qd/ne /a8/x9 /x9/bp /x9/bp/3vi /x9/bp/3vi/vd1 /x9/bp/3vi/vd1/rv /a8/xa /a8/xa/wtw /a8/xa/wtw/jnt /a8/um /a8/um/a8 /a8/um/a8/3g /a8/um/a8/3g/qd /a8/um/a8/3g/qd/w2 /a8/um/a8/3g/qd/w2/4ag /a8/um/a8/3g/qd/w2/4ag/2k /w2/bp /w2/bp/4ag /w2/bp/4ag/jnt /w2/bp/4ag/jnt/6zd 34
+Case #100: /cdl /l /l/h /l/h/p /l/h/p/7 /wsg /h0s /h0s/h /h /h/lu /m65 /m65/u6 /98 /ycu /ycu/r 15

@@ -54,78 +54,24 @@ typedef set<char> sc;
 typedef pair<int, int> pii;
 typedef map<string, int> msi;
 
- class Directory {
-
-
-	vector<Directory*> children;
-public:
-string name;
-	~Directory() {
-		int i;		
-		fo(i,0,children.size())
-			delete children.at(i);
-	}
-	int createIfNotExist(deque<string> path) {
-		int i;
-		int indexFound = -1;
-		if(path.size() > 0) {
-			string currentDir = path.at(0);
-			path.pop_front();	
-	
-			fo(i,0,children.size()){
-				if((children.at(i))->name == currentDir)
-					indexFound = i;
-			}
-
-
-		if (indexFound == -1) {//dir doesDu not exist
-			Directory *dir = new Directory();
-			dir->name = currentDir;
-			children.pb(dir);
-			return 1 + dir->createIfNotExist(path);
-		}
-		else{
-			return (children.at(indexFound))->createIfNotExist(path);
-		}
-
-
-
-		}
-		return 0;
-
-	}
-
-	};
-
-deque<string> split(string str){
-	deque<string> words;
-	int previousIndex = str.size() - 1,i;
-	for(int i = str.size() -1 ; i >= 0 ; i--){
-		if(str[i] == '/') { //we reached the end of a path
-			words.push_front(str.substr(i+1,previousIndex - i+1));
-			previousIndex = i-2;		
-		}
-	}
-
-	return words;
-}
+ 
 
 int main() {
    
 	int i,j,k,t,e,n,ans = 0;
 	string str;
-	deque<string> words;
-	Directory *root;
+	vs path;
+
 	cin >> t;
 	fo(i,0,t){
-		 root = new Directory();
+
+	
+		 
 	  cin >> e >> n;
-	  getline(cin,str);
+
 	 fo(j,0,e){ //existing directory
- 	 	getline(cin,str);
-	 	words = split(str);
-		root->createIfNotExist(words);
-		words.clear();
+ 	 	cin >> str;
+		path.pb(str);
 	}
 		
 	fo(j,0,n)
