@@ -53,154 +53,48 @@ typedef set<char> sc;
 typedef pair<int, int> pii;
 typedef map<string, int> msi;
 
+long solve(string str) {
 
-int solve(int n, int k) {
-   
-	char board[n][n];
-	int i,j,y,z;
-	bool redWin = false, blueWin = false;
-//cout << n << " " << k << endl;
-	for ( j = n-1 ; j >=0 ; j--){
-		fo(i,0,n){
-			cin >> board[j][i];
-			//cout << board[j][i];
+	int i,base;
+	unsigned long answer = 0;
+	map<char,int> values;
+	fo(i,0,str.size()){
+		if(values.find(str[i]) == values.end())
+		{
+			if ( i == 0)
+				values[str[i]] = 1;
+			else if ( values.size() == 1)
+				values[str[i]] = 0;
+			else
+				values[str[i]] = values.size()-1;
 		}
-			//cout <<endl;
 	}
 
+	base = values.size();
+	if(base ==1)base++;
+	//cout << base << " ";
+	map<char,int>::iterator it;
 
-	//cout <<endl;cout <<endl;
-
-	for (j = n-1 ; j >= 0 ; j--)
-		fo(i,0,n) {
-			if(board[i][j] == '.') {
-				z = j - 1;
-				while( z >= 0)
-				{
-					if(board[i][z] != '.') {
-						board[i][j] = board[i][z];
-						board[i][z] = '.';
-						break;
-					}
-					z--;
-				}
-			}
-
-		}
-
-	/*fo(j,0,n){
-		fo(i,0,n){
-			cout << board[i][j];
-		}
-		cout <<endl;
-	}	*/
-	for (j = n-1 ; j >= 0 ; j--)
-		fo(i,0,n) {
-			if(board[i][j] != '.') {
-
-			
-			//check for hor line
-			z = i+1;
-			while (z < n && z < i+k)
-			{
-				if(board[z][j] != board[i][j])
-					break;
-				z++;
-			}
-			if(z == i+k)
-				if(board[i][j] == 'R')
-					redWin = true;
-				else blueWin = true;
-
-			
-
-			//check for vert line
-			z = j+1;
-			while (z < n && z < j+k)
-			{
-				if(board[i][z] != board[i][j])
-					break;
-				z++;
-			}
-			if(z == j+k)
-				if(board[i][j] == 'R')
-					redWin = true;
-				else blueWin = true;
-
-			
-			//check for diag pos line
-			z = j+1;
-			y = i+1;
-			while (z < n && y < n && y < i+k &&  z < j+k)
-			{
-				if(board[y][z] != board[i][j])
-					break;
-				z++;
-				y++;
-			}
-			if(z == j+k)
-				if(board[i][j] == 'R')
-					redWin = true;
-				else blueWin = true;
-
-			
-			//check for diag neg line
-			z = j+1;
-			y = i-1;
-			while (z < n  && y >= 0  && z < j+k && y > i-k )
-			{
-				if(board[y][z] != board[i][j])
-					break;
-				z++;
-				y--;
-			}
-
-			if(z == j+k)
-				if(board[i][j] == 'R')
-					redWin = true;
-				else blueWin = true;
-
-			
-		
-		}	
+	fo(i,0,str.size()){
+		answer *= base;
+		answer += (int)values.find(str[i])->second;
 	}
-	
-	if(blueWin && redWin)
-		return 3;
-	if(blueWin)
-		return 2;
-	if(redWin)
-		return 1;
+		return answer;
 
-	return 0;
-	
-	
+
 }
-
 
 int main() {
 
-    int i,t,n,k,answer;
+    int i,t;
+	string str;
 	cin >> t;
 	
     fo(i,0,t) {
-		cin >> n >> k;
-		answer = solve(n,k);
-		switch(answer){
-		case 0:
-			cout << "Case #" << i+1 << ": Neither"  << endl;
-			break;
-		case 1: 
-			cout << "Case #" << i+1 << ": Red"   << endl;
-			break;
-		case 2 :
-			cout << "Case #" << i+1 << ": Blue"   << endl;
-			break;
-		case 3 :
-			cout << "Case #" << i+1 << ": Both"   << endl;
-			break;
-		}
-       
+		
+		cin >> str;
+		cout << "Case #" << i+1 << ": " << solve(str) << endl;
+
     }
 
 	return 0;
