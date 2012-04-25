@@ -10,8 +10,12 @@
 #include <string>
 #include <map>
 #include <set>
+#include <stack>
 #include <deque>
+#include <queue>
 #include <math.h>
+#include <time.h>
+
 
 #define fo(a,b,c) for( a = ( b ); a < ( c );  a++ )
 #define fr(a,b) fo( a, 0, ( b ) )
@@ -59,15 +63,15 @@ class Node {
 			Node *mLeft;
 			Node *mRight;
 			int mValue;
-	
+
 	public:
-  ~Node(){ cout << "delete Left";delete mLeft;cout << "delete right";delete mRight; }	
+  ~Node(){ cout << "delete Left";delete mLeft;cout << "delete right";delete mRight; }
 	Node(int value);
 	Node* getRight(){return mRight;}
 	Node* getLeft(){return mLeft;}
 	void insert(int value);
 	bool remove(int value);
-	Node* find(int value); 
+	Node* find(int value);
 	int getValue(){ return mValue;}
 };
 
@@ -94,7 +98,7 @@ void Node::insert(int value){
 		else
 			mLeft->insert(value);
 	}
-	
+
 }
 
 void preorderTraverse(Node *node) {
@@ -112,14 +116,54 @@ void inorderTraverse(Node *node){
 
 if(node == NULL)
     return;
-  preorderTraverse(node->getLeft());
+  inorderTraverse(node->getLeft());
   cout << node->getValue() << " ";
-  preorderTraverse(node->getRight());
+  inorderTraverse(node->getRight());
 
 
 }
 
+void preorderTraverseNoIteration(Node *node){
 
+
+    stack<Node*> nodeStack;
+    nodeStack.push(node);
+
+    while(nodeStack.empty() == false) {
+        node = nodeStack.top();
+        nodeStack.pop();
+        cout << node->getValue() << " ";
+        if(node->getRight() != NULL){
+            nodeStack.push(node->getRight());
+
+        }
+        if(node->getLeft() != NULL){
+            nodeStack.push(node->getLeft());
+
+        }
+
+
+    }
+
+
+}
+
+void breadthSearch(Node* node){
+
+    queue<Node> nodeQueue;
+    nodeQueue.push(node);
+
+    while(!nodeQueue.empty()){
+
+
+
+
+
+    }
+
+
+
+}
 
 
 int main() {
@@ -127,7 +171,14 @@ int main() {
   root->insert(12);
   root->insert(17);
   root->insert(-4);
-  preorderTraverse(root);
+   root->insert(53);
+   root->insert(93);
+   root->insert(123);
+   root->insert(9494);
+   root->insert(-23);
+
+
+  preorderTraverseNoIteration(root);
   delete root;
 
 	return 0;
