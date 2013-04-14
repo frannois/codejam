@@ -14,6 +14,8 @@
 #include <math.h>
 #include <iomanip>
 #include <sstream>
+#include <stdint.h>
+
 
 #define fo(a,b,c) for( a = ( b ); a < ( c );  a++ )
 #define fr(a,b) fo( a, 0, ( b ) )
@@ -51,11 +53,43 @@ typedef set<char> sc;
 typedef pair<int, int> pii;
 typedef map<string, int> msi;
 
+uint64_t first, second;
+bool isPalindrome(uint64_t a) {
+    
+    if (a < 10 ) return true;
+
+    stringstream ss;
+    ss << a;
+    string str = ss.str();
+    //cout << "is Palindrome " << str << endl;
+    int s = str.size();
+    for (int i = 0 ; i <= s/2; i++) {
+        if (str[i] != str[s-1-i] )
+        { 
+            //cout << " it isn't" << str[i] << " " << str[s-1-i] << endl;
+            return false;
+        }
+    }
+    return true;
+}
+
 
 int solve() {
 
   int answer = 0;
-
+  uint64_t i,j,s,e;
+  cin >> s >> e;
+  for ( i = s ; i <= e ; i++) {
+      //cout << "h" << endl;
+      if (!isPalindrome(i)) continue;
+      if  ( i - 100000000 > 0) {
+      j = sqrt(i);
+      if(j*j == i && isPalindrome(j))
+    	  answer++;
+      }else
+      answer++;
+      
+    }
   return answer;
 
 }
